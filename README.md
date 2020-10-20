@@ -32,12 +32,12 @@ Add category "Regular" for all tests in HardTestClass
 run only Smoke and Regression tests using runner class
 
 
-16. If you pick TestNG:
-Add group "Regression" for 1 test in SimpleTestClass
-Add group "Smoke" for 1 test in MediumTestClass
-Create testng.xml file
-Configure testng.xml file as:
-all tests from HardTestClass should be run
-test with Regression group should be run
-test with Smoke group should be run
+16. If you pick TestNG:<br />
+Add group "Regression" for 1 test in SimpleTestClass<br />
+Add group "Smoke" for 1 test in MediumTestClass<br />
+Create testng.xml file<br />
+Configure testng.xml file as:<br />
+all tests from HardTestClass should be run<br />
+test with Regression group should be run<br />
+test with Smoke group should be run<br />
 

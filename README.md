@@ -24,13 +24,11 @@
 
 ************************************************************
 
-15. If you pick JUnit:
-Add category "Regression" for all tests in SimpleTestClass
-Add category "Smoke" for all tests in MediumTestClass
-Add category "Regular" for all tests in HardTestClass
-
-run only Smoke and Regression tests using runner class
-
+15. If you pick JUnit:<br />
+Add category "Regression" for all tests in SimpleTestClass<br />
+Add category "Smoke" for all tests in MediumTestClass<br />
+Add category "Regular" for all tests in HardTestClass<br />
+run only Smoke and Regression tests using runner class<br />
 
 16. If you pick TestNG:<br />
 Add group "Regression" for 1 test in SimpleTestClass<br />

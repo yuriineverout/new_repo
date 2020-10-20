@@ -3,7 +3,7 @@
 1. Add JUnit or TestNg dependency in POM file
 2. Add maven-surefire plugin in POM file
 
-3. Go to srce/main/java/application and open Calculator class
+3. Go to src/main/java/application and open Calculator class
 4. Implement all methods with TODO comments
 
 5. Go to the test/java/simpleTask and open SimpleTestClass

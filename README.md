@@ -22,6 +22,8 @@
 13. Run only tests from HardTestClass
 14. Run tests from HardTestClass and SimpleTestClass
 
+************************************************************
+
 15. If you pick JUnit:
 Add category "Regression" for all tests in SimpleTestClass
 Add category "Smoke" for all tests in MediumTestClass
